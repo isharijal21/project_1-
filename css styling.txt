@@ -1,0 +1,44 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    background-color: cadetblue;
+} 
+nav {
+    font-family:"Cormorant" , sans-serif; 
+    font-size: 30px;
+    color: black;
+    background-color: blanchedalmond ;
+    text-decoration: none ;
+}
+header{
+    font-size: 20px;
+    display:flex ;
+    justify-content: space-between; 
+    align-items: center;
+    padding: 30px ;
+    background-color: blanchedalmond;
+}
+    /* occupies the space between  */
+/* a{
+    cursor: pointer;
+    padding: 0 10px 0 10px;
+}
+nav ul { 
+    list-style: none;
+}
+nav ul li {
+    display: inline;
+     /*next to each other  */
+    /* float: right;
+    margin-right: 170px;
+
+}
+.logo{
+    height :200px;
+    width : 200px;
+    display: flex;
+    position: left ;
+
+    /* align -self : centers the logo  */
+/* } */ 
